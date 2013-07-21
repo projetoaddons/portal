@@ -1,4 +1,4 @@
-portal
+Portal
 ======
 
-Criação do Portal para Financiamento Coletivo
+Criação do Portal para Financiamento Coletivo para facilitar e automatizar os processos em geral.
